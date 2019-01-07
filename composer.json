@@ -1,0 +1,19 @@
+{
+    "name": "firerabbit/example",
+    "description": "This is a example.",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Fire Rabbit",
+            "email": "874811226@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FireRabbit\\Example": "src/"
+        }
+    }
+}
